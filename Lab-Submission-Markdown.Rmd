@@ -1,0 +1,21 @@
+Business Intelligence Project
+================
+<Specify your name here>
+<Specify the date when you submitted the lab>
+
+- [Student Details](#student-details)
+- [Setup Chunk](#setup-chunk)
+- [Understanding the Dataset (Exploratory Data Analysis
+  (EDA))](#understanding-the-dataset-exploratory-data-analysis-eda)
+  - [Loading the Dataset](#loading-the-dataset)
+    - [Source:](#source)
+    - [Reference:](#reference)
+
+# Student Details
+
+|                                              |     |
+|----------------------------------------------|-----|
+| **Student ID Number**                        | 134984 and 136304  |
+| **Student Name**                             | Kaguamere Nelson and Alika Kayembe |
+| **BBIT 4.2 Group**                           | BBIT 4.2 A |
+| **BI Project Group Name/ID (if applicable)** | certificate |

@@ -62,10 +62,10 @@ if (require("naivebayes")) {
 data("PimaIndiansDiabetes")
 
 
-# DATASET 1 (Splitting the dataset): Dow Jones Index ---
+# DATASET 1 (Splitting the dataset): PimaIndiansDiabetes
 summary(PimaIndiansDiabetes)
 
-#stracture of the dataset
+#structure of the dataset
 str(PimaIndiansDiabetes)
 
 ## 1. Split the dataset ====
