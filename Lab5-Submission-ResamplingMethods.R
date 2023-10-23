@@ -116,3 +116,5 @@ predictions_svm <- predict(PimaIndiansDiabetes_model_svm, PimaIndiansDiabetes_te
 ### 5.c. View a summary of the model and view the confusion matrix ----
 print(PimaIndiansDiabetes_model_svm)
 caret::confusionMatrix(predictions_svm, PimaIndiansDiabetes_test$diabetes)
+
+#rmarkdown::render("C:\\Users\\Kaguash\\github-classroom\\20230821-20231128-BI2-BBIT4-2\\BBT4206-R-Lab5of15-ResamplingMethods-certificate\\markdown\\Lab-Submission-Markdown.Rmd", output_format = "markdown")
